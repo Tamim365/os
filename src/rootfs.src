@@ -1,0 +1,12 @@
+// root file system
+// not to be confused with actual file systems
+
+fn init()
+// allocate space in memory
+// create the idea of '/'
+// mount device to '/'
+
+fn mount(dev, dir)
+// get filesystem handle from dev
+// hide dir contents
+// remap dir to filesystem from dev
