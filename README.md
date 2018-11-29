@@ -2,8 +2,9 @@
 
 This is a dummy operating system that exists merely as a sandbox
 for me to learn os development. This isn't interesting in the least.
-Even potatoes have more function than this OS. But I've still licensed
-it under MIT 'cause why the fuck not.
+Even potatoes have more function than this OS, but I've still licensed
+it under MIT 'cause why the fuck not. ~~Also I only uploaded this to
+test out GitHub but that doesn't matter.~~
 
 A couple of quirks:
  - You need to have a folder named 'bin' in the repository directory
